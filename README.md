@@ -4,9 +4,13 @@
 
 
 ![p1](images/p1.jpg)
+
 ![p1](images/p2.jpg)
+
 ![p1](images/p3.jpg)
+
 ![p1](images/p4.jpg)
+
 ![p1](images/p5.jpg)
 
 ## 1. Работа телеграм-бота 
