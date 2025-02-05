@@ -1,4 +1,11 @@
-# Функционал бота 
+# Функционал бота (@Hw2CaloryBot)
+
+Картинки:
+![p1](images/p1.png)
+![p1](images/p2.png)
+![p1](images/p3.png)
+![p1](images/p4.png)
+![p1](images/p5.png)
 
 ## 1. Работа телеграм-бота 
 
